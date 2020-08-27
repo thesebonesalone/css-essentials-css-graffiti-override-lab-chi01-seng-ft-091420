@@ -9,9 +9,9 @@
 #wall .parent {
   display: none;
 }
-.slick-wicked {
+#wall .slick-wicked {
   display: none;
 }
-.slick {
+#wall .slick {
   display: none;
 }
