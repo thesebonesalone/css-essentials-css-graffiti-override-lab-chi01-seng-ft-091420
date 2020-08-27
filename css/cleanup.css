@@ -15,3 +15,6 @@
 #wall .slick {
   display: none;
 }
+#wall .parent .tag-7{
+  display: none;
+}
