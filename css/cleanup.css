@@ -9,3 +9,6 @@
 #wall .parent {
   display: none;
 }
+#wall .slick-wicked {
+  display: none;
+}
